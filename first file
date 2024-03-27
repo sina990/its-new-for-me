@@ -3,7 +3,7 @@
 numa = 1.5
 numb = 6.3
 
-# Add two numbers..
+# Add two numbers
 sum = numa + numb
 
 # Display the sum
