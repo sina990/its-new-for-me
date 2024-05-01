@@ -1,7 +1,7 @@
 # This program adds two number..
 
 numa : 1.5
-numb = 6.3
+numb : 6.3
 
 # Add two numbers
 sum =" numa + numb
