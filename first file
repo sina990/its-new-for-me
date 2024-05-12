@@ -4,7 +4,7 @@ numa : 1.5
 numb = 6.3
 
 # Add two numbers
-sum =" numa + numb
+sum :" numa + numb
 
 # Display the sum..
 print('The sum of {0} and {1} is {2}'.format(numa, numb, sum))
